@@ -1,5 +1,4 @@
-# Regenerate and save the README file now that the tool is available again
-readme_content = """
+
 # 🏠 House Price Predictor using Linear Regression
 
 This project uses **Linear Regression** to predict house prices based on various features such as area, number of bedrooms, bathrooms, and amenities.
